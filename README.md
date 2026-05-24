@@ -11,30 +11,45 @@ A simple and beautiful weather application built with **Python 🐍** and **Tkin
 - 🔥 Min & Max temperature
 - 💧 Humidity
 - 🌀 Pressure
-- 🌅 Sunrise & 🌇 Sunset time
+- 🌅 Sunrise Time
+- 🌇 Sunset Time
 - 🌙 Modern dark UI
 
 ---
 
-## 📦 Installation
+## 📸 Screenshot
+<img width="851" height="802" alt="image" src="https://github.com/user-attachments/assets/2d96f9b0-e003-4693-bfbe-511b6dfd2335" />
+
+---
+
+
+## 🛠️ Technologies Used
+
+- 🐍 Python
+- 🖥️ Tkinter
+- 🌐 Requests
+- ☁️ OpenWeatherMap API
+
+---
+
+## 📁 Project Structure
 
 ```bash
-pip install requests
-🛠️ Technologies Used
-🐍 Python
-🖥️ Tkinter
-🌐 Requests
-☁️ OpenWeatherMap API
-📁 Project Structure
 weather-app/
 │
 ├── weather.py
 ├── README.md
 └── screenshot.png
-👨‍💻 Author
+```
+
+---
+
+## 👨‍💻 Author
 
 Ritesh Yadav ✨
 
-📜 License
+---
+
+## 📜 License
 
 This project is free to use and open source ❤️
