@@ -6,32 +6,17 @@ A simple and beautiful weather application built with **Python 🐍** and **Tkin
 
 ## ✨ Features
 
-✅ Search weather by city name  
-✅ Real-time weather updates 🌍  
-✅ Displays:
-
-- 🌡️ Temperature
-- 🔥 Min & Max Temperature
+- 🌍 Real-time weather updates
+- 🌡️ Temperature display
+- 🔥 Min & Max temperature
 - 💧 Humidity
 - 🌀 Pressure
-- 🌅 Sunrise Time
-- 🌇 Sunset Time
-- ☁️ Weather Condition
-
-✅ Modern Dark UI 🌙
+- 🌅 Sunrise & 🌇 Sunset time
+- 🌙 Modern dark UI
 
 ---
 
-## 📸 Screenshot
-
-<img width="851" height="802" alt="image" src="https://github.com/user-attachments/assets/2d96f9b0-e003-4693-bfbe-511b6dfd2335" />
-
-
----
-
-## 📦 Requirements
-
-Install required package:
+## 📦 Installation
 
 ```bash
 pip install requests
@@ -47,7 +32,8 @@ weather-app/
 ├── README.md
 └── screenshot.png
 👨‍💻 Author
-Ritesh Yadav✨
+
+Ritesh Yadav ✨
 
 📜 License
 
